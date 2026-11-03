@@ -1,0 +1,7 @@
+.tox/
+__pycache__/
+*.pyc
+*.egg-info/
+*.pem
+.venv/
+env-api/
